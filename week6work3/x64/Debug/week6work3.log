@@ -1,0 +1,6 @@
+﻿  week6work3.cpp
+D:\daershang\shujujiegou\codes\week6work3\week6work3.cpp(22,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\daershang\shujujiegou\codes\week6work3\week6work3.cpp(85,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\daershang\shujujiegou\codes\week6work3\week6work3.cpp(159,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\daershang\shujujiegou\codes\week6work3\week6work3.cpp(166,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  week6work3.vcxproj -> D:\daershang\shujujiegou\codes\week6work3\x64\Debug\week6work3.exe
